@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TIM</string>
+    <string name="BaseUrl">http://192.168.0.10:8001</string>
+</resources>
